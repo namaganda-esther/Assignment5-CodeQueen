@@ -1,0 +1,52 @@
+.container{
+    text-align: left;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+}
+
+.nav-container{
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 1px;
+    padding: 2px;
+    overflow: hidden;
+    background-color:darkblue;
+  }
+
+.menu{
+    float: left;
+}
+
+.menu a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.menu a:hover {
+    background-color: #111;
+  }
+
+.image{
+    position: relative;
+
+}
+
+.content {
+    background-image: url("image2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  .footer{
+      text-align: center;
+      color: white;
+      background-color: darkblue;
+      padding: 1%;
+  }
